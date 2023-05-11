@@ -1,4 +1,4 @@
-# cse-478
+# CSE-478
 Group member 1:
 Tasnuba Khanom
 ID: 19201103106
