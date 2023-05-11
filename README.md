@@ -1,1 +1,1 @@
-# CSE-478-Neural-Network
+# CSE-478-Neural-Network-Lab
