@@ -1,4 +1,6 @@
 # CSE-478-Spring-2023
+Neural Network and Fuzzy System Lab
+
 Group member 1:
 Tasnuba Khanom
 ID: 19201103106
