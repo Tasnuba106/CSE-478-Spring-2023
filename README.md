@@ -1,6 +1,7 @@
 <h1 align="center"> CSE-478-Spring-2023 </h1>
-# CSE-478-Spring-2023
-Neural Network and Fuzzy System Lab
+
+<h4 align="center"> **Neural Network and Fuzzy System Lab** </h4>
+
 
 Group member 1:
 Tasnuba Khanom
